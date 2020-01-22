@@ -1,7 +1,7 @@
 # *James Mullaney*
 
-  | Org | Current Position  |
---|---|---|--
+| Org | Current Position  |
+|:---:|---:|
 |  **IFC** | V.P Membership & Development  |
 | **Sigma Tau Gamma**  |  Marshall, House Manager |
 |  **Student Senate** |  IFC Representative |
