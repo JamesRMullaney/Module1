@@ -9,7 +9,7 @@
 ## Links:
 How to best get a hold of me:
 [Twitter](https://twitter.com/JamesRMullaney)
-[School Email](S534693@nwmissouri.edu)
+[Instagram](https://www.instagram.com/jamesrmullaney/)
 [LinkedIn](https://www.linkedin.com/in/jrjmullaney)
 
 ## Goals for Spring 2020 Semester:
@@ -21,4 +21,4 @@ How to best get a hold of me:
 * Get top 50% in CCSC Coding Competition
 
 ## Some pictures
-![](/images/2020/01/67756130_3327145177299454_2512248361386508288_o.jpg)
+![](/Users/jm/Downloads/71101035_3484719158208721_749538687267635200_n.jpg)
