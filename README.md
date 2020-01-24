@@ -29,3 +29,10 @@ Here's some pictures of cats!
 Cat pic credts: [u/twdvermont](https://www.reddit.com/user/twdvermont/)
                             [u/skankopita](https://www.reddit.com/user/skankopita/)
                                    [u/Niyazali_Haneef](https://www.reddit.com/user/Niyazali_Haneef/)
+  <form method="post" action="">
+  <B>Poll</B><P><B>Which cat was cuter?</><P>
+  <input type="radio" name="answer" value="1">Cat #1<br>
+  <input type="radio" name="answer" value="2">Cat #2<br>
+  <input type="radio" name="answer" value="3">Cat #3<br><P>
+  <input type="Submit"name="Submit"value="Submit">
+  </form>
