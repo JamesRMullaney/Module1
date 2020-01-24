@@ -30,7 +30,7 @@ Cat pic credts: [u/twdvermont](https://www.reddit.com/user/twdvermont/)
                             [u/skankopita](https://www.reddit.com/user/skankopita/)
                                    [u/Niyazali_Haneef](https://www.reddit.com/user/Niyazali_Haneef/)
   
-  <B>Which cat was cuter?</>
+  <B>Which cat was cuter?</b>
   <p>
     <input type="radio" name="answer" id="1" value="1">
     <label for="1"Cat #1</label>
