@@ -23,3 +23,5 @@ How to best get a hold of me:
 ## Some pictures
 Here's some pictures of cats!
 ![Cat #1](https://i.redd.it/2lz0jqci3jc41.jpg)
+<img src="https://i.redd.it/2lz0jqci3jc41.jpg" alt="Cat #1" width="250"
+         height="250">
