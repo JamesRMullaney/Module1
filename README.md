@@ -20,7 +20,7 @@ Social media links:
   3. Save up money for an Apple Developer License to publish my own applications.
 * Get top 50% in CCSC Coding Competition
 
-## Some pictures
+## Some pictures:
 Here's some pictures of cats!  
 <img src="https://i.redd.it/2lz0jqci3jc41.jpg" alt="Cat #1" width="250" height="250">
 <img src="https://i.redd.it/wr13ilnv2kc41.jpg" alt="Cat #2" width="250" height="250">
