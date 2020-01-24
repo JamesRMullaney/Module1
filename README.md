@@ -6,8 +6,8 @@
 | **Sigma Tau Gamma**  |  Marshall, House Manager |
 |  **Student Senate** |  IFC Representative |
 
-## Links:
-How to best get a hold of me:
+## Social Media:
+Social media links:
 [Twitter](https://twitter.com/JamesRMullaney)
 [Instagram](https://www.instagram.com/jamesrmullaney/)
 [LinkedIn](https://www.linkedin.com/in/jrjmullaney)
