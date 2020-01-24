@@ -21,4 +21,5 @@ How to best get a hold of me:
 * Get top 50% in CCSC Coding Competition
 
 ## Some pictures
-![](/Users/jm/Downloads/71101035_3484719158208721_749538687267635200_n.jpg)
+Here's some pictures of cats!
+![Cat #1](https://i.redd.it/2lz0jqci3jc41.jpg)
