@@ -1,16 +1,9 @@
-# *James Mullaney*
+# *Module 1*
 
-| Org | Current Position  |
-|:---:|---:|
-|  **IFC** | V.P Membership & Development  |
-| **Sigma Tau Gamma**  |  Marshall, House Manager |
-|  **Student Senate** |  IFC Representative |
+## Repository Links:
 
-## Social Media:
-Social media links:
-[Twitter](https://twitter.com/JamesRMullaney)
-[Instagram](https://www.instagram.com/jamesrmullaney/)
-[LinkedIn](https://www.linkedin.com/in/jrjmullaney)
+[Sourced Repository](https://twitter.com/JamesRMullaney)
+[Hosted Page](https://www.instagram.com/jamesrmullaney/)
 
 ## Goals for Spring 2020 Semester:
 * Become better with using MySQL in conjunction with Python
