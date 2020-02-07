@@ -15,6 +15,7 @@
 
 ## Contributors:
 Name: James Mullaney
+
 Degree: Data Science, Computer Science emphasis
 Favorite image: <img src="https://i.redd.it/2lz0jqci3jc41.jpg" alt="Cat #1" width="250" height="250">
 
