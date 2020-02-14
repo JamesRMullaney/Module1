@@ -11,7 +11,9 @@
 * [A github account](https://www.wikihow.com/Create-an-Account-on-GitHub)
 
 ## Resources
-
+* [Udemy](udemy.com)
+* [Stack Overflow](stackoverflow.com)
+* [Google](google.com)
 
 ## Contributors:
 Name: James Mullaney
