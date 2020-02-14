@@ -1,17 +1,17 @@
-# *Module 1*
+# *About-Me for Module 1*
 
 ## Repository Links:
 
 [Sourced Repository](https://twitter.com/JamesRMullaney)
 [Hosted Page](https://www.instagram.com/jamesrmullaney/)
 
-## Goals for Spring 2020 Semester:
-* Become better with using MySQL in conjunction with Python
-* Start teaching myself Swift. Steps I plan to take:
-  1. Work through a Udemy class
-  2. Start experimenting with coding MacOS Apps
-  3. Save up money for an Apple Developer License to publish my own applications.
-* Get top 50% in CCSC Coding Competition
+## Recommended tools
+* A github desktop gui client
+* Index is written in HTML
+* [A github account](https://www.wikihow.com/Create-an-Account-on-GitHub)
+
+## Resources
+
 
 ## Contributors:
 Name: James Mullaney
